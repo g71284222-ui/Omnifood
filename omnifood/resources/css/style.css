@@ -201,7 +201,7 @@ input[type=submit] {
 /*------------------------------------------*/
 
 header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/resources/images/hero.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(/Omnifood);
     background-size: cover;
     background-position: center;
     height: 100vh; 
@@ -427,7 +427,7 @@ header {
 /*------------------------------------------*/
 
 .section-testimonials {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url(/resources/images/back-customers.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/back-customers.jpg);
     background-size: cover;
     color: #fff;
     background-attachment: fixed; /*When we scroll in the page, the image stays in the same place, relative to the browser window*/
