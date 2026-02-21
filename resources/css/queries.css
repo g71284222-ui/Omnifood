@@ -151,3 +151,29 @@
         padding: 30px 0;
         }
 }
+
+
+
+/* small phones:from 0 to 320 */
+@media only screen and (max-width: 320px){
+    .hero-text-box h1 {
+    position: relative;
+    top: 50%;
+    left: 0;
+    font-size: 90%;
+    }
+
+    
+footer {
+    background-color: #333;
+    padding: 29px;
+    font-size: 50%;
+}
+
+.social-links {
+    list-style: none;
+    float: center;
+    margin-left: 21%;
+}
+
+}
